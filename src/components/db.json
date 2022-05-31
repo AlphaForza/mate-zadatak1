@@ -1,0 +1,85 @@
+{
+    "code": 34293,
+    "certificates": [
+      {
+        "certificate_id": 24,
+        "certificate_name": "Phytosqualan",
+        "certificate_lot": "R80PSQ062",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "92900957de7019fe74b975d53c01f9c1b93e00046f4298aa320d2f8c1224d55fe329f9021616169299.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/92900957de7019fe74b975d53c01f9c1b93e00046f4298aa320d2f8c1224d55fe329f9021616169299.pdf",
+        "certificate_file_old": "Phytosqualan lot R80PSQ062 25.1..pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2021-03-19 15:54:59",
+        "certificate_expire": "2022-08-31 00:00:00"
+      },
+      {
+        "certificate_id": 128,
+        "certificate_name": "Bazno Ulje",
+        "certificate_lot": "T30PSQ030",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "e51243c83f457bc534327f27d2b0fc2135a5efdca63388935411ea7f6ca5b22eafbefb951624976348.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/e51243c83f457bc534327f27d2b0fc2135a5efdca63388935411ea7f6ca5b22eafbefb951624976348.pdf",
+        "certificate_file_old": "Phytosqualane T30PSq030.pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2021-06-29 14:19:08",
+        "certificate_expire": "2024-03-31 00:00:00"
+      },
+      {
+        "certificate_id": 291,
+        "certificate_name": "Arome",
+        "certificate_lot": "LOTT60PSQ055",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "a8b56edbfeced3dbddd2be529d52a97c2a3ce1a6420b79ab727f314ea31cdfde6c6fcf1c1635777086.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/a8b56edbfeced3dbddd2be529d52a97c2a3ce1a6420b79ab727f314ea31cdfde6c6fcf1c1635777086.pdf",
+        "certificate_file_old": "Phytosqualan LOT T60PSQ055 ; do 06.2024..pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2021-11-01 14:31:26",
+        "certificate_expire": "2024-06-30 00:00:00"
+      },
+      {
+        "certificate_id": 326,
+        "certificate_name": "Glicerin",
+        "certificate_lot": "T110PSQ093",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "eaacee010f68a7cd94074e0fd92e6e4ddd747ebb85f4a23bf58ef75a845fd3af8c6e4f011639262048.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/eaacee010f68a7cd94074e0fd92e6e4ddd747ebb85f4a23bf58ef75a845fd3af8c6e4f011639262048.pdf",
+        "certificate_file_old": "Phytosqualan ; LOT T110PSQ093; do 11.2024..pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2021-12-11 22:34:08",
+        "certificate_expire": "2024-11-30 00:00:00"
+      },
+      {
+        "certificate_id": 373,
+        "certificate_name": "Phytosqualan",
+        "certificate_lot": "U10PSQ005",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "a960e1287dc7431851254729cd94fc3b60bda1271e13d63cd9aaf644c7801ddc0fd580091643719838.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/a960e1287dc7431851254729cd94fc3b60bda1271e13d63cd9aaf644c7801ddc0fd580091643719838.pdf",
+        "certificate_file_old": "Phytosqualan; LOT U10PSQ005; do 01.2025.pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2022-02-01 12:50:38",
+        "certificate_expire": "2025-01-17 00:00:00"
+      },
+      {
+        "certificate_id": 479,
+        "certificate_name": "Phytosqualan",
+        "certificate_lot": "U50PSQ045",
+        "certificate_description": null,
+        "certificate_dir": "https://livelyroasters.coffee4me.eu/certificate/",
+        "certificate_file": "934eb323ac6d1a08629dbfea47c9225c5de8349bf2ba1c81c1a91969402740e36942423c1652955320.pdf",
+        "certificate_path": "https://livelyroasters.coffee4me.eu/certificate/934eb323ac6d1a08629dbfea47c9225c5de8349bf2ba1c81c1a91969402740e36942423c1652955320.pdf",
+        "certificate_file_old": "Phytosqualan; U50PSQ045; 05.2025.pdf",
+        "certificate_mime": "application/pdf",
+        "certificate_date": "2022-05-19 10:15:20",
+        "certificate_expire": "2025-05-31 00:00:00"
+      }
+    ],
+    "valid": true,
+    "search": 34293
+  }
